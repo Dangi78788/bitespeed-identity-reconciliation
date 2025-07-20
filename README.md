@@ -1,6 +1,6 @@
 # Bitespeed Identity Reconciliation
 
-A web service that identifies and links customer contact information across multiple purchases. Built for FluxKart.com to track customers who use different email addresses and phone numbers for each order.
+A web service that identifies and links customer contact information across multiple purchases. Built to track customers who use different email addresses and phone numbers for each order.
 
 ## 🚀 Live Demo
 
@@ -435,5 +435,5 @@ The application is deployed on Render and connected to a PostgreSQL database. Th
 
 ---
 
-**Repository**: [GitHub Repository Link]  
+**Repository**: [https://github.com/Dangi78788/bitespeed-identity-reconciliation]  
 **Live Demo**: https://bitespeed-identity-reconciliation-5pj1.onrender.com/identify
