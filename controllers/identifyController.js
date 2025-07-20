@@ -372,6 +372,7 @@ const identifyContact = async (req, res) => {
   }
 
   const client = await pool.connect();
+  console.log("db connection established");
 
   try {
     await client.query("BEGIN");
